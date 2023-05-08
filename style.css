@@ -28,8 +28,12 @@ a:hover {
   color: #4965d3;
 }
 
+.card-grey:hover {
+  background: #e4e5ecd6;
+}
+
 .card-grey {
-  background: #e0e1e6;
+  background: #efeff2;
   border: 0px;
   border-radius: 5px;
   box-shadow: 4px 4px 6px #d4d6e5;
@@ -57,6 +61,11 @@ a:hover {
   display: inline-block;
   font-size: 14px;
   border-radius: 6px;
+}
+
+.btn-blue:hover {
+  background-color: white;
+  color:rgb(75, 193, 193);
 }
 
 #img-round {
