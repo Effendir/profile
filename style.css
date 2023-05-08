@@ -28,7 +28,7 @@ a:hover {
   color: #4965d3;
 }
 
-.card {
+.card-grey {
   background: #e0e1e6;
   border: 0px;
   border-radius: 5px;
@@ -42,12 +42,12 @@ a:hover {
   margin: 0 auto;
 }
 
-.list-inline > li {
+.list-inline li {
   display: inline-block;
   padding: 0px 20px;
 }
 
-.button {
+.btn-blue {
   background-color: rgb(75, 193, 193);
   border: none;
   color: white;
@@ -59,13 +59,13 @@ a:hover {
   border-radius: 6px;
 }
 
-#profile_pic {
+#img-round {
   width: 100px;
   height: 100px;
   border-radius: 50%;
 }
 
-#follow {
+#text-green {
   color: rgb(75, 193, 193);
 }
 
